@@ -6,7 +6,7 @@
 
 ### 📌 Sobre mim  
 - 📖 Cursando o **6º período de Engenharia de Software** na Campo Real  
-- 📲 Estudando **React, Node.js, Angular, Java/Spring**  
+- 📲 Estudando **React, Node.js, Angular, Java/Spring, e Flutter**  
 - 🔍 Em busca de oportunidades como **desenvolvedor**  
 - 📄 Sempre procurando **melhorar minhas habilidades**
 - 🎨 Tenho maior experiência em **front-end**, mas estou constantemente estudando e me esforçando para evoluir também no **back-end**, buscando me tornar um desenvolvedor completo.
